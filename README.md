@@ -1,3 +1,2 @@
 # git-init-sample
 
-test
